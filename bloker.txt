@@ -1086,19 +1086,12 @@ _160x600.
 ||e7is2u38.top^
 ||35.193.89.147^$popup
 ||revcontent.com^
-
-[Subscription]
-url=~user~591506
-title=Whitelist
-defaults=whitelist
-
 @@||easylist.club
 @@||app.midtrans.com^$document
 @@||melonesinpreneur.com^$document
 @@||sscnakun.bkn.go.id^$document
 @@||sscndaftar.bkn.go.id^$document
 @@||cse.google.com^$document
-
 ##.momizat-ads
 ###topad
 ###rightad
@@ -1108,17 +1101,17 @@ defaults=whitelist
 ##.ads_1
 ~coinmads.com##.top_adspace
 ~google.com,~ikea.com##img\[width="200"]\[height="200"]
-##img\[width="250"]\[height="250"]
-##img\[width="300"]\[height="250"]
-##img\[width="240"]\[height="240"]
-##img\[width="85"]\[height="455"]
-##img\[width="154"]\[height="154"]
-##img\[width="160"]\[height="600"]
-##img\[width="485"]\[height="60"]
-##img\[width="974"]\[height="70"]
-##img\[width="468"]\[height="60"]
+##img [width="250"] [height="250"]
+##img [width="300"] [height="250"]
+##img [width="240"] [height="240"]
+##img [width="85"] [height="455"]
+##img [width="154"] [height="154"]
+##img [width="160"] [height="600"]
+##img [width="485"] [height="60"]
+##img [width="974"] [height="70"]
+##img [width="468"] [height="60"]
 ~dogecola.me,~uplod.org,~tempr.email,~melonesinpreneur.com,~linkberuang.blogspot.com##.adsbygoogle
-##div\[id^="div-gpt-ad"]
+##div [id^="div-gpt-ad"]
 ##.SC_TBlock
 ##.adBlockNotDetected
 ##.ad_position
@@ -1126,23 +1119,23 @@ defaults=whitelist
 vidoza.net##.PuSOverlay
 vidoza.net##.pvr
 ##.wppaszone
-##div\[class*="td-a-rec-id-"]
+##div [class*="td-a-rec-id-"]
 ##.ad_unit
 ~freedashco.in,~mp3takepl.com,~tribunnews.com,~kompas.com##.text_ad
 ##.top-banner-ad-container
 ##div\[id^="dfp-ad-"]
 ~binomo.com##a\[href*="binomo.com/promo"] > img
 ##.banner-468x60
-##a\[href^="http://ads.betfair.com/redirect.aspx?"]
-##img\[width="600"]\[height="300"]
-##img\[width="100%"]\[height="100"]
-##img\[width="100%"]\[height="90"]
-##img\[width="728"]\[height="90"]
+##a [href^="http://ads.betfair.com/redirect.aspx?"]
+##img [width="600"] [height="300"]
+##img [width="100%"] [height="100"]
+##img [width="100%"] [height="90"]
+##img [width="728"] [height="90"]
 ##.trc_related_container div\[data-item-syndicated="true"]
 ##.trc-content-sponsored
 ##.banner_ad
 yahoo.com,zedge.net,zillow.com,gizmodo.com.au##.ad
-~coinmads.com##iframe\[width="728"]\[height="90"]
+~coinmads.com##iframe [width="728"] [height="90"]
 ###insticator-container
 ##.banner-728x90
 ##.ads-top
@@ -1158,13 +1151,13 @@ yahoo.com,zedge.net,zillow.com,gizmodo.com.au##.ad
 ###ad-right
 ##.ads2
 ##.ads1
-##div\[id*="ScriptRoot"]
+##div [id*="ScriptRoot"]
 ###ad-slot-2
 ##.AdsRec
 ##.ad-unit-label
 ~claimbit.win,~bitdesire.it,~btcheat.com,~ethcombo.com##.adsbox
 ~freedashco.in,~mp3takepl.com,~tribunnews.com,~kompas.com##.text-ad
-##a\[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]\[target="_blank"]
+##a [onmousedown^="this.href='http://paid.outbrain.com/network/redir?"] [target="_blank"]
 ###ad-left
 ###masthead-ad
 ~bioskopkeren.ws##.afs_ads
@@ -1253,24 +1246,24 @@ ptcwall.com##DIV\[style="width: 468px; height: 60px; border: 1px dotted orange;"
 ##IMG\[width="640"]\[height="160"]
 ##DIV\[style="width:300px; height:250px; position: relative;"]
 ##IMG\[width="530px"]
-##\[width="600"]\[height="120"]
-##\[width="310"]\[height="162"]
-##\[width="307"]\[height="164"]
-##\[width="729"]\[height="90"]
-##\[width="468"]\[height="58"]
-##\[width="276"]\[height="182"]
-##IMG\[width="369"]\[height="380"]
+## [width="600"] [height="120"]
+## [width="310"] [height="162"]
+## [width="307"] [height="164"]
+## [width="729"] [height="90"]
+## [width="468"] [height="58"]
+## [width="276"] [height="182"]
+##IMG [width="369"] [height="380"]
 bitcointalk.org##.des
 bitcointalk.org##.paypie
 bitcointalk.org##.slot
 bitcointalk.org##.chngbnk
-##IMG\[style="width: 468px; height: 60px; border: 0px none;"]
-##IMG\[width="576"]\[height="71"]
-##IMG\[width="250"]\[height="200"]
-##IMG\[width="276"]\[height="553"]
-##IMG\[width="276"]\[height="186"]
-##IMG\[width="276"]\[height="276"]
-##IMG\[width="276"]\[height="230"]
+##IMG [style="width: 468px; height: 60px; border: 0px none;"]
+##IMG [width="576"] [height="71"]
+##IMG [width="250"] [height="200"]
+##IMG [width="276"] [height="553"]
+##IMG [width="276"] [height="186"]
+##IMG [width="276"] [height="276"]
+##IMG [width="276"] [height="230"]
 bitcointalk.org###dgp-ad-wrapper
 bitcointalk.org##.centra
 ##.ad_slider_out
@@ -1283,35 +1276,35 @@ bitcointalk.org##.JtVCFLVXsDnEcdqykyhmrA
 ##IMG\[style="width: 468px; height:60px;"]
 ##.featured.feat-left
 ##.feat-center
-##IMG\[style="top:0px; left:0px; position:absolute;"]
+##IMG [style="top:0px; left:0px; position:absolute;"]
 ###large-layerad
 ###close_ad
 ###overlay_ad
-##IMG\[style="width:350px;height:200px;border:0;"]
+##IMG [style="width:350px;height:200px;border:0;"]
 ~onhax.me,~ishoutbox.com##IMG\[align="middle"]
-##\[width="1120px; "]\[height="329px; "]
-##IMG\[width="160.0"]\[height="600.0"]
+## [width="1120px; "] [height="329px; "]
+##IMG [width="160.0"] [height="600.0"]
 ~bitcoin.co.id,~obsproject.com##IMG\[style="width: 100%"]
-##IMG\[width="745"]\[height="92"]
-##IMG\[style="width: 100%; height:90px"]
+##IMG [width="745"] [height="92"]
+##IMG [style="width: 100%; height:90px"]
 ~filescdn.com##.btn.bg-green-400.btn-labeled.btn-rounded.text-white
 ##.owl-buttons
 ~rumah123.com,~faucethero.com,~ami.com,~bitcoinspinner.io,~coinmarketcap.com,~telkomsel.com,~1337x.to,~claimulike.win,~coinrotation.com,~bitcoinclub.pw,~claimbit.top,~btcfaucet.design,~aalyafaucet.com,~multicoinfaucet.website,~8raa.com,~cekresi.com,~hitcanavari.net,~hitbitco.in,~alinafaucet.win,~furturebitearnmore.xyz,~cryptoclaimer.website,~bitcoin-s.com,~shift-coin.us,~mmbtcl.ink,~topbtc.club,~furiouscoin.com,~vivocoin.com,~netlimiter.com,~loop.co.id,~wahana.com,~grab.com,~metube.id##.img-responsive
-##IMG\[width="120"]\[height="600"]
-##IMG\[width="610"]\[height="90"]
-##DIV\[style="margin:auto;width:300px;height:250px;background-color:#b3bccc;"]
-##DIV\[style="background:#ccc; width:728px; height:90px;"]
+##IMG [width="120"] [height="600"]
+##IMG [width="610"] [height="90"]
+##DIV [style="margin:auto;width:300px;height:250px;background-color:#b3bccc;"]
+##DIV [style="background:#ccc; width:728px; height:90px;"]
 ##.top_banner
 ##.remove
 ###fbanner *
 ##.center_ad *
-##A\[href="//5755ac539651fe8f366.com/1399019.html"]
+##A [href="//5755ac539651fe8f366.com/1399019.html"]
 dailyuploads.net##P
-##IMG\[width="100%"]\[height="250"]
-##DIV\[style="background:#ccc; height: 200px; width: 200px; border: 1px solid #696969;"]
-##IMG\[width="338"]\[height="250"]
-##A\[href="//y5wflt0xibmoufuvsayg1efy80yq0ystkjncf76cqm.com/1385654.html"]
-##DIV\[style="width:302px; height:252px; border:solid 1px #000;"]
+##IMG [width="100%"] [height="250"]
+##DIV [style="background:#ccc; height: 200px; width: 200px; border: 1px solid #696969;"]
+##IMG [width="338"] [height="250"]
+##A [href="//y5wflt0xibmoufuvsayg1efy80yq0ystkjncf76cqm.com/1385654.html"]
+##DIV [style="width:302px; height:252px; border:solid 1px #000;"]
 ###float-banner *
 ##.AdBlockDetector *
 ##.multibot_banner > *
@@ -1323,7 +1316,7 @@ dailyuploads.net##P
 ~filmapik.tv##IMG\[width="100%"]\[height="100%"]
 ##.kus
 cnet.com##DIV.inviewElement.dock.entered *
-##IMG\[style="max-width:100%;"]
+##IMG [style="max-width:100%;"]
 ###video-masthead
 1337x.to###trlai > #lkqto
 1337x.to###trl5jj > #lkgz
@@ -1358,38 +1351,38 @@ indoxxi.tv##.jwseed > *
 ##DIV#previewBox4 *
 ##DIV#previewBox2 *
 ns21.pw##DIV.ban_empat *
-##IMG\[width="230px"]\[height="230px"]
+##IMG [width="230px"] [height="230px"]
 ##DIV#fbawah *
-##IMG\[width="1040"]\[height="90"]
-##IMG\[width="518"]\[height="62"]
-##IMG\[width="100"]\[height="500"]
+##IMG [width="1040"] [height="90"]
+##IMG\[width="518"] [height="62"]
+##IMG\[width="100"] [height="500"]
 ##DIV#ads_banner_right1 *
 ##DIV#ads_banner_left1 *
-##IMG\[width="50%"]\[border="0"]
+##IMG [width="50%"] [border="0"]
 ~bni.co.id##DIV#topbar *
-##IMG\[src="/wp-content/uploads/2018/04/Baner-HokiQQ-728X901.gif"]
-##IMG\[src="/wp-content/uploads/2018/04/Banner-728x901.gif"]
-##IMG\[src="/wp-content/uploads/2018/04/BANNER-728-X-90-JUARABOLA.gif"]
-##IMG\[src="/wp-content/uploads/2018/04/liga168.gif"]
+##IMG [src="/wp-content/uploads/2018/04/Baner-HokiQQ-728X901.gif"]
+##IMG [src="/wp-content/uploads/2018/04/Banner-728x901.gif"]
+##IMG [src="/wp-content/uploads/2018/04/BANNER-728-X-90-JUARABOLA.gif"]
+##IMG [src="/wp-content/uploads/2018/04/liga168.gif"]
 ##DIV#teaser1 + DIV#teaser2 *
-##IMG\[width="100%"]\[height="75px"]
-##IMG\[width="540px"]\[height="65px"]
+##IMG [width="100%"] [height="75px"]
+##IMG [width="540px"] [height="65px"]
 ##DIV#teaser2 + DIV#teaser3 *
 ##DIV#teaser1 *
-##IMG\[src="/wp-content/uploads/2018/01/rumahsakong300.gif"]
-##IMG\[src="/wp-content/uploads/2017/08/Ci-Banner-300.gif"]
-##IMG\[width="100%"]\[height="90px"]
-##IMG\[src="/wp-content/uploads/2018/03/depoqq.gif"]
-##IMG\[width="120"]\[height="450"]
+##IMG [src="/wp-content/uploads/2018/01/rumahsakong300.gif"]
+##IMG [src="/wp-content/uploads/2017/08/Ci-Banner-300.gif"]
+##IMG [width="100%"] [height="90px"]
+##IMG [src="/wp-content/uploads/2018/03/depoqq.gif"]
+##IMG [width="120"] [height="450"]
 ##BUTTON\[onclick="parentNode.remove()"]
-##IMG\[width="800"]\[height="99"]
-##IMG\[width="515"]\[height="64"]
+##IMG [width="800"] [height="99"]
+##IMG [width="515"] [height="64"]
 ##DIV#btmx *
 ###btmx
-##IMG\[data-original-height="250"]\[data-original-width="300"]
-##IMG\[width="760"]\[height="60"]
-##IMG\[width="380"]\[height="60"]
-##IMG\[width="240px"]\[height="240px"]
+##IMG [data-original-height="250"]\[data-original-width="300"]
+##IMG [width="760"] [height="60"]
+##IMG [width="380"] [height="60"]
+##IMG [width="240px"] [height="240px"]
 ##DIV#ppsPopupBgOverlay + * + * *
 ##DIV.iklan.wrapper *
 ##DIV.headads *
