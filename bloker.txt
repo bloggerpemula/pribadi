@@ -133,7 +133,7 @@ _advertisement_
 .ads.css
 .ads.controller.
 ||onclickpulse.com^$third-party
-/advertisement.$domain=~btc2you.gq|~000webhostapp.com|~getbitfaucet.com|~alinafaucet.win|~agoodprofit.ru|~bitcoingenie.ml|~bitcoingala.xyz|~wildcoin.cf|~faucethubio.tk|~emmonfaucet.ga|~123link.co|~bitgolden.tk|~satoshimonster.cf|~shn-host.ru|~faucetfly.com|~saltycrypto.com|~earnmybitcoin.com|~bitclaim.xyz|~coinlack.com|~alekscoin.com|~dogecoins.top|~bitcoinmoney.info|~vikingbtc.xyz|~hubcoins.xyz|~tcpvpn.com|~uplod.org|~leecher.xyz
+/advertisement.$domain=~upload.ac|~000webhostapp.com|~getbitfaucet.com|~alinafaucet.win|~agoodprofit.ru|~bitcoingenie.ml|~bitcoingala.xyz|~wildcoin.cf|~faucethubio.tk|~emmonfaucet.ga|~123link.co|~bitgolden.tk|~satoshimonster.cf|~shn-host.ru|~faucetfly.com|~saltycrypto.com|~earnmybitcoin.com|~bitclaim.xyz|~coinlack.com|~alekscoin.com|~dogecoins.top|~bitcoinmoney.info|~vikingbtc.xyz|~hubcoins.xyz|~tcpvpn.com|~uplod.org|~leecher.xyz
 ||backbeatmedia.com^$third-party
 ||cur.lv/nbottom.php?
 ||adsoptimal.com^$third-party
