@@ -25,6 +25,8 @@
 ||ad.bitmedia.io^
 ||coinzilla.io^$third-party
 ||popmyads.com^$third-party
+||ivastoor.com^$third-party
+||cepailru.com^$third-party
 /popunder2.js$domain=~streamango.com
 /popunder1.js
 ||coin-hive.com^
