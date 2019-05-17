@@ -3,8 +3,6 @@
 ! Title: ADBlok
 ! Last modified: 2019 April 17, 19:33:43
 !
-||thepiratebay.org^$popup
-||dailyuploads.net^$popup
 ||topptc.org^
 ||xoxly.com^
 ||adslots/banners/*
@@ -25,14 +23,11 @@
 ||ad.bitmedia.io^
 ||coinzilla.io^$third-party
 ||popmyads.com^$third-party
-||ivastoor.com^$third-party
-||cepailru.com^$third-party
 /popunder2.js$domain=~streamango.com
 /popunder1.js
 ||coin-hive.com^
 ||histats.com^$third-party
 /adservice.
-||grabvideo.me^$popup
 ||a-ads.com^$third-party
 ||liveadexchanger.com^$third-party
 ||puserving.com^$third-party
@@ -86,7 +81,6 @@
 ||acrossiblel.info^$third-party
 ||amazonaws.com^$third-party,xmlhttprequest,domain=300mbdownload.net|300mbfilms.co|bdupload.info|bigfile.to|file-upload.com|mirrorcreator.com|sadeempc.com|tinypaste.me|uplod.ws
 ||hicpm5.com^
-||vidoza.net^$popup
 /img/600.
 /adblockchecker.js$script
 /blockadblock.min.js$script
@@ -111,8 +105,6 @@
 ||ml314.com^$third-party
 ||indexww.com^$third-party
 ||atemda.com^$third-party
-||senditcloud.com^$popup
-||filescdn.com^$popup
 /banner/b2.
 ||ads-twitter.com^$third-party
 /script/wait.php
@@ -135,7 +127,6 @@ _advertisement_
 .ads.css
 .ads.controller.
 ||onclickpulse.com^$third-party
-/advertisement.$domain=~upload.ac|~000webhostapp.com|~getbitfaucet.com|~alinafaucet.win|~agoodprofit.ru|~bitcoingenie.ml|~bitcoingala.xyz|~wildcoin.cf|~faucethubio.tk|~emmonfaucet.ga|~123link.co|~bitgolden.tk|~satoshimonster.cf|~shn-host.ru|~faucetfly.com|~saltycrypto.com|~earnmybitcoin.com|~bitclaim.xyz|~coinlack.com|~alekscoin.com|~dogecoins.top|~bitcoinmoney.info|~vikingbtc.xyz|~hubcoins.xyz|~tcpvpn.com|~uplod.org|~leecher.xyz
 ||backbeatmedia.com^$third-party
 ||cur.lv/nbottom.php?
 ||adsoptimal.com^$third-party
@@ -159,7 +150,6 @@ _advertisement_
 ||takru.com^
 ||content-ad.net^$third-party
 .ads3-
-||iziwinmoney.info^$popup
 /ad_data_
 /ads/ads.$domain=~btcsoup.us
 ||adap.tv^$~object-subrequest,third-party
@@ -179,7 +169,6 @@ _advertisement_
 ||autto.net^
 ||gambar123.com^
 ||bestptcad.com/
-||peercoinfaucetrotator.info^$popup
 ||faucet.bitcoins43.com/adslots/banners/*
 ||topbtcsites.com/adslots/banners/*
 ||self-teacher.ru^
@@ -218,7 +207,6 @@ _advertisement_
 ||exe.bid^
 ||vk.com^
 ||fortrader.org^
-||yandex.ru^$domain=~yobit.io|~cryptoclub.biz|~faucet.cloud|~rg-adguard.net
 ||pluso.ru^
 ||flagcounter.com^
 ||bitmakler.net^
@@ -255,7 +243,6 @@ _advertisement_
 ||doolloob.com^
 ||18.194.124.208^
 ||42030020902.tk^
-||bitcomine.net^$popup
 ||exdynsrv.com^
 ||alibaba.com^
 ||alicdn.com^$domain=~alibaba.com|~lazada.co.id
@@ -277,7 +264,6 @@ _advertisement_
 ||snhfmewkai.bid^
 ||uvstluoomeys.bid^
 ||btc.ms/js/full-page-script.js
-||bioskop55.me^$popup
 ||164.132.171.89^$popup
 ||fxpjkzwveswgtt.bid^
 ||wdvmxgwwyzoq.bid^
@@ -304,7 +290,6 @@ _advertisement_
 ||cusok.ru^
 ||dsf4t5jfds34j.com^
 ||h6y654wgfdhd.com^
-||pushnative.com^
 ||mobtrks.com^
 ||mobisla.com^
 ||coinhits.com^$domain=~coinhits.com|~satoshigratisotomatis.blogspot.com
@@ -315,14 +300,10 @@ _advertisement_
 ||xftyznkmppep.bid^
 ||ouahjrthgxyh.bid^
 ||sdk.streamrail.com^
-||astonwin.com^$popup
 ||opuspoker.com^$popup
 ||vjs.zencdn.net^
 ||uadexchange.com^
 ||mobicast.io^
-||filmbokepml.net^$popup
-||akamaihd.net^$domain=~shopee.co.id|~live.com|~vidio.com
-||psl.io^$popup
 ||eze99.net^$popup
 ||feedjit.com^
 ||arrassley.info^
@@ -360,13 +341,11 @@ _advertisement_
 ||lhapwjkoltogf.bid^
 ||junwkfyb.bid^
 ||coinhive.com^$domain=~coincrunch.win|~freebtcn.win
-||graph.facebook.com^$domain=~satoshigratisotomatis.blogspot.com|~baymack.com|~skylom.com
 ||videogamebase.net^
 ||xqtadzsabcjj.bid^
 ||tbogddyfxl.bid^
 ||dkvblgxkihtys.bid^
 ||ivideo247.com^
-||cointraffic.io^$popup
 ||ad.360yield.com^
 ||adadvisor.net^
 ||pixel.s3xified.com^
@@ -409,7 +388,6 @@ _advertisement_
 ||sharethrough.com^
 ||cdn.nsstatic.net^
 ||userplane.com^
-||yastatic.net^
 ||top-fwz1.mail.ru^$domain=~rg-adguard.net
 ||google.com/coop/cse/*
 ||szybkakasa24h.pl^
@@ -433,7 +411,6 @@ _advertisement_
 ||top-advertise.com^
 ||cdn.syndication.twimg.com^$domain=~qoinpro.com|~yobit.io
 ||kittylive.net^
-||sworatio.co^$popup
 ||comwgi.com^$third-party
 /logpopup/*
 ||zxtrace.com^$popup
@@ -521,7 +498,6 @@ _advertisement_
 ||zemanta.com^
 ||adblade.com^
 ||trafficfaucet.xyz^
-||translate.google.com^$domain=~google.com
 ||padsdel.com^$popup
 ||ubercpm.com^
 ||console.re^
@@ -555,7 +531,6 @@ _advertisement_
 ||ditouyldfqgt.com^
 ||ziuxkdcgsjhq.com^
 ||mysecurewebhosting.com^
-||pushengage.com^
 ||chatra.io^
 ||localbitcoins.com/affiliate-embed/*
 ||forms.aweber.com^
@@ -597,8 +572,6 @@ _160x600.
 ||alluc.ee^
 ||estream.to^$domain=~grabvideo.me
 ||rtmark.net^
-||openload.co^$popup
-||nontondramamu.me^$popup
 ||pussl35.com^
 ||deloton.com^
 ||chgwsvfju.bid^
@@ -751,7 +724,6 @@ _160x600.
 ||pilottere.info^
 ||dollapses.info^
 ||hitcpm.com^
-||disqus.com^$domain=~litecoinforecast.com|~altcoinforecast.com
 ||eaaqsama.com^
 ||wnp.com^$domain=~expressfaucet.com
 ||analytics.blue^
@@ -804,7 +776,6 @@ _160x600.
 ||gfdfhdh5t5453.com^
 ||megpacokjce.bid^
 ||lhttyvdxvgjrdp.com^
-||defpush.com^
 ||mbahshondong.com^
 ||jubna.com^
 ||frmavvtkhi.bid^
@@ -851,7 +822,6 @@ _160x600.
 ||piguiqproxy.com^$domain=~clicknupload.org
 ||shermore.info^
 ||amgload.net^$domain=~clicknupload.org
-||modulepush.com^
 ||pjyxgemom.bid^
 ||vjgfelirts.bid^
 ||popmajor.com^
@@ -908,7 +878,6 @@ _160x600.
 ||trothko.com^
 ||entriedreligible.info^
 ||bodelen.com^
-||pushnice.com^
 ||x7xirtzmot.com^
 ||nanoadexchange.com^$popup
 ||policityseriod.info^
@@ -922,14 +891,11 @@ _160x600.
 ||mechangesee.club^
 ||ppbvmesssyacij.com^
 ||jenaowzhtbi.com^
-||luckypushh.com^
-||pushwhy.com^
 ||bj1110.online^
 ||talk4anyone.com^$popup
 ||vqqvpouifhv.com^
 ||s9kkremkr0.com^
 ||dgafgadsgkjg.top^
-||push-notifications.top^
 ||e7is2u38.top^
 ||revcontent.com^
 #a(href*=inclk.com)
@@ -1013,13 +979,10 @@ _300x250.
 ||filmapik.xyz$popup
 ||e2ertt.com^
 ||perf.cdnads.com^
-||pushame.com^
 ||popcash.net^
 |https://$script,third-party,xmlhttprequest,domain=uploadocean.com|rapidvideo.com|userscloud.com|mirrorcreator.com|windowscentral.com
 ||dt2xr6g2i5.com^$popup
-||blibli.com^$popup
 ||invol.co^$popup
-||rapidvideo.com^$popup
 ||clickroute.org^
 ||milesport-capproved.com$popup
 ||74.91.20.98^
@@ -1059,7 +1022,6 @@ Banner-300.gif
 ||criteo.net^$domain=~kompas.com|~xda-developers.com
 ||webvisor.org^
 ||aralego.net^
-||ivideosmart.com^
 ||hightech.web.id^$popup
 ||mediawayss.com^
 ||ys3e965d.top^
@@ -1093,7 +1055,6 @@ Banner-300.gif
 ||brightcove.com^
 ||adlightning.com^
 ||selectablemedia.com^
-||pushcrew.com^
 ||sumo.com^
 /adsimg.
 /uploads/*.gif$image
@@ -1117,7 +1078,6 @@ _728x90-$image
 /banner728.$image
 /banners/728.$image
 66-728.gif$image
-||cloudfront.net^$domain=~indodax.com|~noip.com|~browserstack.com|~mivo.com|~bitcoin.co.id|~rumah123.com|~ifixit.com|~coinstarter.com|~luno.com|~coins.id|~baymack.com|~priceprice.com|~hboasia.com|~forexsignals.com|~myforexchart.com|~bukalapak.com|~top10bestvpn.com|~zenmate.com|~bestvpn.com|~iswift.io|~edugain.com|~zendesk.com|~go-ride.co.id|~go-jek.com|~hooq.tv|~moneygram.com|~tribunnews.com|~clippingmagic.com|~lowfares.com
 ||130.211.222.44$popup
 ||fbcdn.net^$domain=~facebook.com|~baymack.com|~skylom.com|~instafollowers.co|~instagram.com
 /kimochi.js
@@ -1130,7 +1090,6 @@ about:blank$popup,domain=yourtechguider.com
 ||lazada.co.id^$domain=~lazada.co.id
 /amp-ad-
 -sticky-ad-
-||imasdk.googleapis.com^$third-party
 /ad_status.
 /adasiatagmanager.
 ||unrulymedia.com^$third-party
@@ -1171,7 +1130,6 @@ about:blank$popup,domain=yourtechguider.com
 /assets/img/banners/*.$domain=~ciptaloka.com
 ||kaishist.top^$third-party$popup
 |about:$popup,domain=dunia21.me
-||cse.google.com^$domain=~dunia21.me|~google.com
 ||kslot777.biz^$third-party
 ||glotchat.click^$third-party
 ||nompakru.click^$third-party
@@ -1187,8 +1145,6 @@ about:blank$popup,domain=yourtechguider.com
 ||friendlyduck.com^$third-party
 ||s3.amazonaws.com^$domain=~askvg.com|~myrepublic.co.id|~mataharimall.com|~crossbrowsertesting.com|~hooq.tv|~ciptaloka.com|~neteller.com
 ||advertnative.com^$third-party
-||umzzaftkqgx.com^$third-party
-||useinsider.com^$third-party
 ||dclick.io^$third-party
 ||asiatoday.online^$third-party
 ||ig0nr8hhhb.com^$third-party
@@ -1258,7 +1214,6 @@ about:blank$popup,domain=yourtechguider.com
 ||agreensdistra.info^$third-party
 ||fortpush.com^$third-party
 ~savidnet.com|~ljutkeunvpn.blogspot.com|~androbent.blogspot.com###adsense
-||youtube.com^$domain=~youtube.com|~zulu.id|~kaskus.co.id|~tp-link.com|~yufid.tv|~skylom.com|~baymack.com|~snuckls.com|~mbahmijan.com|~twitter.com|~configinter.net|~dunia21.me|~telkomsel.com|~clickers.info|~antvklik.com|~narasi.tv|~go-ride.co.id|~tribunnews.com|~xda-developers.com
 ||akamaized.net^$domain=~microsoft.com|~xbox.com|~olx.co.id|~windows.com|~office.com|~expressvpn.com|~hooq.tv|~liputan6.com|~microsoftedgeinsider.com
 ||oupushee.com^$third-party
 ||remtoaku.net^$third-party
@@ -1266,6 +1221,53 @@ about:blank$popup,domain=yourtechguider.com
 /js/ads.$domain=~neobux.com|~cu2.io|~btc.ms|~tokenfly.pw|~adbilty.me|~vivads.net|~urle.co|~iziwinmoney.info|~coin.mg|~fabsdeals.com|~fausetdog.ru|~cut4.cash|~curs.io|~cutbit.io|~elibtc.win|~faucetdump.com|~gabicoins.com|~vhb.io|~rektcoins.pw|~onlinebee.in|~bit-url.com|~yesmoviesapp.info|~artocoin.com|~cutit.io|~123link.co|~xrpfaucet.info|~zcashfaucet.info|~etcfaucet.info|~stellarfaucet.info|~l2s.io|~u2s.io|~cryptosmo.com|~coindice.win|~daily-sale.in|~cut-earn.com|~skipad.bid|~cryptoclub.biz|~cryptoclub.company|~qe.pe|~yourtechguider.com|~ulne.be|~cut.ac|~bitcoadz.pw|~linkrex.net|~man2link.com|~btcad.in|~cryptoadz.win|~btcleets.xyz|~linkshrink.win|~cuon.io|~batcut.com|~adsrt.com|~cutw.me|~wicr.me|~cryptoclub.cloud|~hubturkey.net|~stealive.club|~licklink.net
 /pagead2.$domain=~melonesinpreneur.com|~faucetdump.com
 ||pagead2.googlesyndication.com^$~object-subrequest,domain=~melonesinpreneur.com|~linkberuang.blogspot.com|~faucetdump.com
+/advertisement.$domain=~upload.ac|~000webhostapp.com|~getbitfaucet.com|~alinafaucet.win|~agoodprofit.ru|~bitcoingenie.ml|~bitcoingala.xyz|~wildcoin.cf|~faucethubio.tk|~emmonfaucet.ga|~123link.co|~bitgolden.tk|~satoshimonster.cf|~shn-host.ru|~faucetfly.com|~saltycrypto.com|~earnmybitcoin.com|~bitclaim.xyz|~coinlack.com|~alekscoin.com|~dogecoins.top|~bitcoinmoney.info|~vikingbtc.xyz|~hubcoins.xyz|~tcpvpn.com|~uplod.org|~leecher.xyz
+||ivastoor.com^$third-party
+||graph.facebook.com^$domain=~satoshigratisotomatis.blogspot.com|~baymack.com|~skylom.com|~seword.com
+||disqus.com^$domain=~litecoinforecast.com|~altcoinforecast.com|~seword.com
+||/sw.js$script
+||pushnest.com^$third-party
+||adsafeprotected.com^$third-party
+||spotx.tv^$third-party
+||entitlements.jwplayer.com^$third-party
+=adunit&
+://syndication.$third-party
+||facebook.net^*/fbevents.js$third-party
+/ads8.
+||cloudfront.net^$domain=~indodax.com|~noip.com|~browserstack.com|~mivo.com|~bitcoin.co.id|~rumah123.com|~ifixit.com|~coinstarter.com|~luno.com|~coins.id|~baymack.com|~priceprice.com|~hboasia.com|~forexsignals.com|~myforexchart.com|~bukalapak.com|~top10bestvpn.com|~zenmate.com|~bestvpn.com|~iswift.io|~edugain.com|~zendesk.com|~go-ride.co.id|~go-jek.com|~hooq.tv|~moneygram.com|~tribunnews.com|~clippingmagic.com|~lowfares.com|~thetop10bestantivirus.com
+||imasdk.googleapis.com^$third-party
+||useinsider.com^$third-party
+||ivideosmart.com^$third-party
+/videojs.ads.
+||yandex.ru^$domain=~yobit.io|~cryptoclub.biz|~faucet.cloud|~rg-adguard.net|~yandex.ru
+||yastatic.net^$domain=~yandex.ru
+||pushnative.com^$third-party
+||pushengage.com^$third-party
+||defpush.com^$third-party
+||modulepush.com^$third-party
+||pushnice.com^$third-party
+||luckypushh.com^$third-party
+||pushwhy.com^$third-party
+||pushame.com^$third-party
+||pushcrew.com^$third-party
+||push-notifications.top^$third-party
+||vidsdelivery.com^$third-party
+||bcloudhost.com^$third-party
+||kj2hy.com^$third-party
+||cepailru.com^$third-party
+||4l7wg5kf3z.com^$third-party
+||cse.google.com^$domain=~dunia21.me|~google.com|~apkmos.com
+||pasangiklan.com^$third-party
+||15elon9.umzzaftkqgx.com^$third-party
+||11ofswt.umzzaftkqgx.com^$third-party
+||s4ngr3.umzzaftkqgx.com^$third-party
+||15elon9.jba.tribunnews.com^$third-party
+||nvoepbzqtn.com^$third-party
+||pxlqyrteuuh.com^$third-party
+||akamaihd.net^$domain=~shopee.co.id|~live.com|~vidio.com|~creditkarma.com
+||youtube.com^$domain=~youtube.com|~zulu.id|~kaskus.co.id|~lazada.co.id|~tp-link.com|~yufid.tv|~skylom.com|~baymack.com|~snuckls.com|~mbahmijan.com|~twitter.com|~configinter.net|~dunia21.me|~telkomsel.com|~clickers.info|~antvklik.com|~narasi.tv|~go-ride.co.id|~tribunnews.com|~xda-developers.com
+||deloplen.com^$third-party
+*$popup,domain=thepiratebay.org|dailyuploads.net|upload.ac|grabvideo.me|vidoza.net|filescdn.com|iziwinmoney.info|bitcomine.net|bioskop55.online|filmbokepml.me|psl.io|cointraffic.io|nontondrama.me|openload.co|rapidvideo.com|oload.stream|fruithosts.net|mirrorace.com,third-party
 ##.momizat-ads
 ###topad
 ###rightad
@@ -1492,6 +1494,42 @@ about:blank$popup,domain=yourtechguider.com
 ##img[width="728"][height="220"]
 ##div[id^="ads_banner_right1"]
 ##div[id^="ads_banner_left1"]
+##.textAd
+##.text-ad-links
+##.pub_728x90
+##.pub_300x250
+##iframe[id^="google_ads_iframe"]
+##div[id^="crt-"][style]
+##div[id^="crt-"][style*="width:"]
+###player-ads
+###pla-shelf
+###merch-shelf
+###offer-module
+##.player-leaderboard-ad-wrapper
+##.dfp-leaderboard-container
+##.player-ads
+##.sponsored-post
+##.playAds1
+##.playAds2
+##.plainAd
+###AdTopLeader
+##.play-page-ads
+###show-ad
+###middle-ad
+##.article-ad
+##.cnAdDiv
+##div[id^="adspop"]
+##div[id^="fixads"]
+##div[id^="wideskyscraper"]
+###boxes
+##div[class="kus"]
+##div[class="width-px-1100 center text-center ads-billboard"]
+##div[class="ads__horizontal clearfix"]
+##div[id="popup"]
+##div[class="kcm kcm__horizontal clearfix"]
+##div[id^="ads_singlem_bottom"]
+##div[id^="ads_player_bottom"]
+##div[class="Dvr-300"]
 @@||easylist.club
 @@||tt1.oload.stream/r3/f
 @@||eramuslim.com^$generichide
