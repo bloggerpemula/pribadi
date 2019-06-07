@@ -612,7 +612,6 @@ _160x600.
 ||adlooxtracking.com^
 ||googletagservices.com^
 ||genieessp.com^
-||rawgit.com^$domain=~furturebitearnmore.xyz|~ngelanjutkeun.blogspot.com|~lanjutkeun.blogspot.com|~isplbwiki.net|~ljutkeunvpn.blogspot.com
 ||luminate.com^
 ||truste.com^
 ||intellitxt.com^
@@ -1221,7 +1220,6 @@ about:blank$popup,domain=yourtechguider.com
 /js/ads.$domain=~neobux.com|~cu2.io|~btc.ms|~tokenfly.pw|~adbilty.me|~vivads.net|~urle.co|~iziwinmoney.info|~coin.mg|~fabsdeals.com|~fausetdog.ru|~cut4.cash|~curs.io|~cutbit.io|~elibtc.win|~faucetdump.com|~gabicoins.com|~vhb.io|~rektcoins.pw|~onlinebee.in|~bit-url.com|~yesmoviesapp.info|~artocoin.com|~cutit.io|~123link.co|~xrpfaucet.info|~zcashfaucet.info|~etcfaucet.info|~stellarfaucet.info|~l2s.io|~u2s.io|~cryptosmo.com|~coindice.win|~daily-sale.in|~cut-earn.com|~skipad.bid|~cryptoclub.biz|~cryptoclub.company|~qe.pe|~yourtechguider.com|~ulne.be|~cut.ac|~bitcoadz.pw|~linkrex.net|~man2link.com|~btcad.in|~cryptoadz.win|~btcleets.xyz|~linkshrink.win|~cuon.io|~batcut.com|~adsrt.com|~cutw.me|~wicr.me|~cryptoclub.cloud|~hubturkey.net|~stealive.club|~licklink.net
 /pagead2.$domain=~melonesinpreneur.com|~faucetdump.com
 ||pagead2.googlesyndication.com^$~object-subrequest,domain=~melonesinpreneur.com|~linkberuang.blogspot.com|~faucetdump.com
-/advertisement.$domain=~upload.ac|~000webhostapp.com|~getbitfaucet.com|~alinafaucet.win|~agoodprofit.ru|~bitcoingenie.ml|~bitcoingala.xyz|~wildcoin.cf|~faucethubio.tk|~emmonfaucet.ga|~123link.co|~bitgolden.tk|~satoshimonster.cf|~shn-host.ru|~faucetfly.com|~saltycrypto.com|~earnmybitcoin.com|~bitclaim.xyz|~coinlack.com|~alekscoin.com|~dogecoins.top|~bitcoinmoney.info|~vikingbtc.xyz|~hubcoins.xyz|~tcpvpn.com|~uplod.org|~leecher.xyz
 ||ivastoor.com^$third-party
 ||graph.facebook.com^$domain=~satoshigratisotomatis.blogspot.com|~baymack.com|~skylom.com|~seword.com
 ||disqus.com^$domain=~litecoinforecast.com|~altcoinforecast.com|~seword.com
@@ -1234,7 +1232,6 @@ about:blank$popup,domain=yourtechguider.com
 ://syndication.$third-party
 ||facebook.net^*/fbevents.js$third-party
 /ads8.
-||cloudfront.net^$domain=~indodax.com|~noip.com|~browserstack.com|~mivo.com|~bitcoin.co.id|~rumah123.com|~ifixit.com|~coinstarter.com|~luno.com|~coins.id|~baymack.com|~priceprice.com|~hboasia.com|~forexsignals.com|~myforexchart.com|~bukalapak.com|~top10bestvpn.com|~zenmate.com|~bestvpn.com|~iswift.io|~edugain.com|~zendesk.com|~go-ride.co.id|~go-jek.com|~hooq.tv|~moneygram.com|~tribunnews.com|~clippingmagic.com|~lowfares.com|~thetop10bestantivirus.com
 ||imasdk.googleapis.com^$third-party
 ||useinsider.com^$third-party
 ||ivideosmart.com^$third-party
@@ -1268,6 +1265,23 @@ about:blank$popup,domain=yourtechguider.com
 ||youtube.com^$domain=~youtube.com|~zulu.id|~kaskus.co.id|~lazada.co.id|~tp-link.com|~yufid.tv|~skylom.com|~baymack.com|~snuckls.com|~mbahmijan.com|~twitter.com|~configinter.net|~dunia21.me|~telkomsel.com|~clickers.info|~antvklik.com|~narasi.tv|~go-ride.co.id|~tribunnews.com|~xda-developers.com
 ||deloplen.com^$third-party
 *$popup,domain=thepiratebay.org|dailyuploads.net|upload.ac|grabvideo.me|vidoza.net|filescdn.com|iziwinmoney.info|bitcomine.net|bioskop55.online|filmbokepml.me|psl.io|cointraffic.io|nontondrama.me|openload.co|rapidvideo.com|oload.stream|fruithosts.net|mirrorace.com,third-party
+||gloyah.net^$third-party
+||adserver-e7.com^$third-party
+||pushagim.com^$third-party
+||tavertotsand.info^$third-party
+||craydark.pw^$third-party
+||2go7v1nes8.com^$third-party
+||rawgit.com^$domain=~furturebitearnmore.xyz|~infosehatku.club|~lanjutkeun.blogspot.com|~safeloadfile.blogspot.com|~ljutkeunvpn.blogspot.com
+||cloudfront.net^$domain=~indodax.com|~noip.com|~browserstack.com|~mivo.com|~bitcoin.co.id|~rumah123.com|~ifixit.com|~coinstarter.com|~luno.com|~coins.id|~baymack.com|~priceprice.com|~screencast-o-matic.com|~forexsignals.com|~myforexchart.com|~bukalapak.com|~top10bestvpn.com|~zenmate.com|~bestvpn.com|~iswift.io|~edugain.com|~zendesk.com|~go-ride.co.id|~go-jek.com|~hooq.tv|~moneygram.com|~tribunnews.com|~clippingmagic.com|~lowfares.com|~thetop10bestantivirus.com
+||naucaips.com^$third-party
+/images/bk.png
+||zap.buzz^$third-party
+||pw.wpu.sh^$third-party
+||luven.xyz^$third-party
+||tontwiredat.info^$third-party
+||gereviousp.pro^$third-party
+/advertisement.$domain=~000webhostapp.com|~getbitfaucet.com|~alinafaucet.win|~agoodprofit.ru|~bitcoingenie.ml|~bitcoingala.xyz|~wildcoin.cf|~faucethubio.tk|~emmonfaucet.ga|~123link.co|~bitgolden.tk|~satoshimonster.cf|~shn-host.ru|~faucetfly.com|~saltycrypto.com|~earnmybitcoin.com|~bitclaim.xyz|~coinlack.com|~alekscoin.com|~dogecoins.top|~bitcoinmoney.info|~vikingbtc.xyz|~hubcoins.xyz|~tcpvpn.com|~uplod.org|~leecher.xyz|~upload.ac
+||upload.ac/hg/img/map.png$popup
 ##.momizat-ads
 ###topad
 ###rightad
@@ -1530,6 +1544,9 @@ about:blank$popup,domain=yourtechguider.com
 ##div[id^="ads_singlem_bottom"]
 ##div[id^="ads_player_bottom"]
 ##div[class="Dvr-300"]
+##div[class="d1AdsWrapper"]
+##div[id="adb"]
+##a[class="promoted"]
 @@||easylist.club
 @@||tt1.oload.stream/r3/f
 @@||eramuslim.com^$generichide
