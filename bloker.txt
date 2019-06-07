@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! 
-! Title: ADBlok
-! Last modified: 2019 April 17, 19:33:43
+! Checksum: 0DB06E072D08FC670AB668A599727E05
+! Title: GDSBlock
+! Last modified: 2019 June 07, 19:56:18
 !
 ||topptc.org^
 ||xoxly.com^
