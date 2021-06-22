@@ -1,0 +1,363 @@
+! Title: My UBO Filters
+! Description: This is my own Filters
+
+@@*$generichide,domain=coinpayz.xyz|coinpayz.link|cryptomoneyco.in|exey.io|bevru.club|topfaucet.tk|expresscrypto.io|proinfinity.fun|faucet.livegamers4fun.com|short.clickscoin.com|lemeclaim.website|cryptoclaim.space|cryptoshi.club|topfaucet.tk|cryptolovers.online|manicoins.com|freebitz.xyz|dovefaucet.xyz|bestfaucet.com.pl|auto-crypto.ml|expressfaucet.com|autofaucet.xyz|hogdice.com|ecauto.dailyfaucets.com|toptap.website|softairbay.com|bitclicks.org|racevpn.com|contassh.com|satoshihero.com|satoshimonster.com|caranecom.blogspot.com|mycut.my.id|fastoshi.site|faucetworld.in|coinwetalk.com|cryptodelta.net|forumcoin.win|theicongenerator.com|fastcrypto.ga|cryptoonite.com|hack-sat.com|www.arwy8877.com|ezbit.co.in|coinwetalk.com|ez4short.com|diogoplaytech.top|cripto.co.in|mof.pw|freecrypto.cyou|linnkin.com|crazyblog.in|fastfaucet.xyz|abokitech.net|bitria.net|gripo.website|expresslevelup.xyz|coinbaze.in|earnads.top|urlfiles.com|forex-trnd.com|kiemlua.com|starfaucet.net|shoppingpals.xyz|blockhash.space|cryptobarathrum.ovh|rivayz.net|dogefaucetz.xyz|yellowfaucet.ovh|mccrypto.xyz|autofaucet.dutchycorp.space|nousdecor.com|gifans.com|arbweb.info|cryptobob.online|kiralikarazi.com|lemeclaim.xyz|claimdoge.club|autoclaim.site|staaker.com|claimfreecoins.io|bigbtc.win|rodjulian.com|gainprofit.xyz|thegoneapp.com|wplink.online|fire-link.net|cryptobunker.xyz|harlequin.tech|faucet-island.xyz|th3dz.com|vikingsfaucet.xyz|fidlarmusic.com|ksfaucet.net|fowcy.club|urlty.com|gwaher.com|azuzt.tk|nicecoins.pw|faucets-picker.com|dogeearn.com|digirefera.top|txyz.tk|claimdoge.club|cryptofans.club
+gwaher.com,fidlarmusic.com,wplink.online,thegoneapp.com,bigbtc.win,staaker.com,clickscoin.com,nousdecor.com,forex-trnd.com,earnads.top,coinbaze.in,expressfaucet.com,crazyblog.in,mediacpm.pl,cripto.co.in,www.arwy8877.com,cryptoonite.com,proinfinity.fun,mycut.my.id##+js(bab-defuser.js)
+faucet.ibnu1337.xyz,earncoin.site,yousm.link,bitclaim.click,noweconomy.live,mof.pw,topcryptoz.net,paid4.link,allcryptoz.net,cashearn.cc,asia-mag.com,express-cut.ovh##+js(window.open-defuser)
+desiflix.club##+js(abort-on-property-write.js, _pop)
+@@/prebid-ads.js$script,domain=lootlinks.xyz
+@@/adsbygoogle.js|$script,domain=fastssh.com|woiden.com|ethereumfaucet.info|faucetdump.com|filecr.com|mycut.my.id
+@@/viewad.js$script,domain=shortique.com
+@@||www.google.com/adsense/*$domain=randomssh.com|sshstunnel.com|lionssh.com|proinfinity.fun
+@@||api.twitter.com/1.1/jot/client_event.json$xhr,1p
+@@||spotssh.com^$image,1p
+@@||ezbit.co.in/ui/dash/js/fuckadblock.min.js$script,1p
+@@||contassh.com^$image,1p
+@@||www.youtube.com/youtubei/v1/log_event$xhr,domain=www.youtube.com
+@@||www.youtube.com/api/stats/qoe$ping,domain=www.youtube.com
+@@/wp-content/plugins/dh-anti-adblocker/*$script
+@@||free-trx.com^$xhr,1p
+@@||amung.us^$domain=bismillahslamet.blogspot.com
+@@||a-ads.com^$domain=bismillahslamet.blogspot.com
+@@||bemobtrk.com^$domain=adbtc.top
+@@||bemobpath.com^$domain=adbtc.top
+@@||a-ads.com^$1p
+@@||popmyads.com^$1p
+@@||bemobpath.com^
+@@||bemobtrcks.com^
+@@||bemobtrk.com^
+@@||hack-sat.com/faucet/img/*$image,1p
+@@||freehostedscripts.net^$domain=bismillahslamet.blogspot.com
+@@||shopeemobile.com^$domain=shopee.co.id
+@@||firebaselogging-pa.googleapis.com^$domain=shopee.co.id
+@@||browser.sentry-cdn.com^$script,domain=freebitz.xyz|phoenixfaucets.xyz|mcmfaucets.xyz
+@@||www.easyhits4u.com^
+@@||static.easyhits4u.com^
+@@||device.maxmind.com^$domain=www.easyhits4u.com
+@@||unpkg.com^$script,domain=www.easyhits4u.com|adshrink.it
+@@||cdn.trackjs.com/agent/v3/latest/t.js$script,domain=adshrink.it
+@@||graph.instagram.com^$xhr,1p
+@@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=link1s.com
+@@||autofaucet.dutchycorp.space/adblock.php$xhr,domain=autofaucet.dutchycorp.space
+@@||i.imgur.com/H0LMgQx.png$image,domain=fcc.lc
+@@||g.adspeed.net/ad.php?do=detectadblocker$script,domain=kiralikarazi.com
+@@||shrink.icu/js/prebid-ads.js$script,1p
+cryptobunker.xyz#@#+js(nobab)
+@@||forumcoin.win/global/ads/jquery.js$script,1p
+shortique.com#@#[id*="ScriptRoot"]
+freebitcoin.win#@#.col-md-12
+crazyblog.in#@#+js(window.open-defuser)
+faucetcoins.org,freecoinz.xyz#@##captcha-adspace
+skybtc.com#@##google-ad
+bigbtc.win#@#center
+||www.intellipopup.com^$important
+||bestfaucet.com.pl/BestFaucet.gif$image
+||st.chatango.com/h5/gz/r0527210747/id.html$subdocument
+||www.arwy8877.com/images/bg00o.jpg$image,domain=www.arwy8877.com,important
+||discord.com^$domain=www.arwy8877.com,important
+||www.youtube.com^$domain=thora.world|faucetworld.in|claimfreecoins.io|dutchycorp.ovh|dutchycorp.space,important
+||coingecko.com^$domain=fastfaucet.xyz|bestfaucet.com.pl
+||changelly.com^$domain=starfaucet.net
+||www.ecjkroklyxvod.com^$important
+||zquotfuofx.com^$important
+||ustxsntseyhwsx.com^$important
+||pyrk.club^$important
+||ayelads.com^$important
+||coinlib.io^$domain=bestfaucet.com.pl
+||best-ads.com.pl^
+||cryptotraffic.xyz^$important
+||www.neterou.com^
+||itrigra.ru^
+||momijoy.ru^
+||wicavozo.xyz^
+||ekufogow.xyz^
+||www.tluumnjyrc.com^
+||1904554737.rsc.cdn77.org^
+||www.coaincltxhw.com^
+||bitswall.net^
+||bit-ad.com^
+||www.ayetstudios.com^
+||api.adgem.com^
+||pollfish.com^
+||bmfads.com^
+||arc.io^
+||adoto.net^
+||viralbanneradcoop.com^$important
+||www.chatbro.com^
+||ywofuxyq.xyz^
+||melacexi.xyz^
+||czilladx.com^
+||mellowads.com^
+||cryptocoinsad.com^
+||beedrive.link^$image,1p
+||jivosite.com^
+||livechatinc.com^
+||ivideosmart.com^
+||zukxd6fkxqn.com^$popup,important
+||/ads.js$script
+||/advanced-ads-pro.js$script
+||oranegfodnd.com^$script
+||/bundle.umd.js^$script
+||tqmibkqlwqdysi.com^$important
+||1181260972.rsc.cdn77.org^$important
+||banneradblaster.com^$important
+||devozuyu.xyz^
+||tefumiji.xyz^
+||jyotfrrvn.com^
+||p.drawx.xyz^$important
+||popcashjs.b-cdn.net^$important
+||bestfaucet.com.pl/BestFaucet.gif$image,1p,important
+||bestfaucet.com.pl/bfbg.jpg$image,1p,important
+||cryptolovers.online/images/backgnd.jpg$image,1p,important
+||faucet-island.xyz/sunset/bg.jpg$image,1p,important
+||doptik.ru^$important
+||poptyto.ru^$important
+||pyurekhin.ru^$important
+||clickfight.net^$important
+||cdn.bitshark.io^$important
+||cryptomininggame.com^$important
+||faucetcrypto.com^$domain=fastfaucet.xyz,important
+||expresscrypto.io^$domain=fastfaucet.xyz,important
+||faucet-island.xyz/sunset/sblogo.png$image,1p,important
+|http*:*/arlinablock.js$script,3p,important
+||tradingview.com^$domain=shoppingpals.xyz
+||cryptodelta.net/scb/bg.jpg$image
+||cryptodelta.net/devil/blue2.jpg$image,1p,important
+||cryptodelta.net/devil/helllogo.png$image,1p,important
+||st.chatango.com/h5/gz/r0409211505/id.html$subdocument
+||changenow.io^$important
+||ycipiwic.xyz^$important
+||gonapysa.xyz^$important
+||qusyjoyo.xyz^$important
+||vurobyde.xyz^$important
+||sholke.com^$important
+||www.ahnioppshfwq.com^$important
+||gplinks.in^$important
+||chatra.io^$important
+||bitpcn.com^$important
+||www.mczahprdql.com^$important
+||adxmetrika.com^$important
+||www.betteradsystem.com^$important
+||www.ijwtkojhc.com^$important
+||ijwtkojhc.com^$important
+||poptri.com^$important
+||www.cyzdyiccpwx.com^$important
+||chicgar.info^$important
+||ivepdiwslclulq.com^$important
+||fawhositho.com^$important
+||cryptolatest.news^$important
+||freelitecoin.vip^$important
+||xxxrevpushclcdu.com^$important
+||tgzobwoutuwn.com^$important
+||apps.elfsight.com^$important
+||adshort.media^$important
+||wnmalshuld.com^$important
+||harlequin.tech/mission-background.png$image
+||egreephu.com^$important
+||vubihasdtbadiq.com^$important
+||www.vsvihsib.com^$important
+||tywzyhfliwdbu.com^$important
+||uhqpnhorurueku.com^$important
+||mansavou.net^$important
+||ridsaich.com^$important
+
+trongo.pro###agressive-ads
+www.softairbay.com###link-view > .banner-captcha.banner
+www.softairbay.com##.banner-728x90.banner
+shrinkmyl.ink##.banner-inner
+gripo.website##body > center
+gripo.website##[src="https://gripo.website/auto/contest"]
+100count.net###id-custom_banner
+digirefera.top,nicecoins.pw,nicecoins.pw,nicecoins.pw,nicecoins.pw,nicecoins.pw,nicecoins.pw,azuzt.tk,fowcy.club,topfaucet.tk,vikingsfaucet.xyz,th3dz.com,faucet-island.xyz,harlequin.tech,dovefaucet.xyz,cryptodelta.net,lemeclaim.xyz,arbweb.info,gripo.website,mccrypto.xyz,dogefaucetz.xyz,ezefidelity.com,yellowfaucet.ovh,shoppingpals.xyz,toptap.website,fastfaucet.xyz,expresslevelup.xyz,cryptoshi.club,cryptolovers.online,fastcrypto.ga,nzfun.tk,expressfaucet.com,hack-sat.com,lemeclaim.website,cryptoclaim.space,manicoins.com###about
+digirefera.top,nicecoins.pw,nicecoins.pw,nicecoins.pw,nicecoins.pw,nicecoins.pw,nicecoins.pw,azuzt.tk,azuzt.tk,azuzt.tk,azuzt.tk,azuzt.tk,azuzt.tk,fowcy.club,th3dz.com,faucet-island.xyz,harlequin.tech,cryptodelta.net,arbweb.info,mccrypto.xyz,yellowfaucet.ovh,shoppingpals.xyz,toptap.website,fastfaucet.xyz,topfaucet.tk,expresslevelup.xyz,cryptoshi.club,proinfinity.fun,clickscoin.com,cryptolovers.online,fastcrypto.ga,nzfun.tk,expressfaucet.com,cryptoclaim.space,manicoins.com,lemeclaim.website,ecauto.dailyfaucets.com,auto-crypto.ml###random_160_right
+digirefera.top,nicecoins.pw,nicecoins.pw,nicecoins.pw,nicecoins.pw,nicecoins.pw,azuzt.tk,azuzt.tk,azuzt.tk,azuzt.tk,azuzt.tk,fowcy.club,th3dz.com,faucet-island.xyz,harlequin.tech,cryptodelta.net,arbweb.info,mccrypto.xyz,yellowfaucet.ovh,shoppingpals.xyz,toptap.website,fastfaucet.xyz,topfaucet.tk,expresslevelup.xyz,cryptoshi.club,proinfinity.fun,clickscoin.com,cryptolovers.online,fastcrypto.ga,nzfun.tk,expressfaucet.com,cryptoclaim.space,manicoins.com,lemeclaim.website,ecauto.dailyfaucets.com,auto-crypto.ml###random_160_left
+digirefera.top,nicecoins.pw,nicecoins.pw,nicecoins.pw,nicecoins.pw,azuzt.tk,azuzt.tk,azuzt.tk,azuzt.tk,fowcy.club,th3dz.com,faucet-island.xyz,harlequin.tech,cryptodelta.net,arbweb.info,lemeclaim.xyz,hack-sat.com,mccrypto.xyz,yellowfaucet.ovh,shoppingpals.xyz,toptap.website,fastfaucet.xyz,topfaucet.tk,expresslevelup.xyz,cryptoshi.club,proinfinity.fun,clickscoin.com,cryptolovers.online,fastcrypto.ga,nzfun.tk,expressfaucet.com,cryptoclaim.space,manicoins.com,lemeclaim.website,ecauto.dailyfaucets.com,auto-crypto.ml###random_300_right
+digirefera.top,nicecoins.pw,nicecoins.pw,nicecoins.pw,azuzt.tk,azuzt.tk,azuzt.tk,fowcy.club,th3dz.com,faucet-island.xyz,harlequin.tech,cryptodelta.net,arbweb.info,lemeclaim.xyz,hack-sat.com,mccrypto.xyz,yellowfaucet.ovh,shoppingpals.xyz,toptap.website,fastfaucet.xyz,topfaucet.tk,expresslevelup.xyz,cryptoshi.club,proinfinity.fun,clickscoin.com,cryptolovers.online,fastcrypto.ga,nzfun.tk,expressfaucet.com,cryptoclaim.space,manicoins.com,lemeclaim.website,ecauto.dailyfaucets.com,auto-crypto.ml###random_300_left
+digirefera.top,nicecoins.pw,nicecoins.pw,azuzt.tk,azuzt.tk,fowcy.club,th3dz.com,faucet-island.xyz,harlequin.tech,cryptodelta.net,arbweb.info,mccrypto.xyz,yellowfaucet.ovh,shoppingpals.xyz,toptap.website,fastfaucet.xyz,topfaucet.tk,expresslevelup.xyz,cryptoshi.club,proinfinity.fun,clickscoin.com,cryptolovers.online,fastcrypto.ga,nzfun.tk,expressfaucet.com,cryptoclaim.space,manicoins.com,lemeclaim.website,ecauto.dailyfaucets.com,auto-crypto.ml###random_728_bottom
+digirefera.top,arbweb.info,nicecoins.pw,azuzt.tk,fowcy.club,th3dz.com,faucet-island.xyz,harlequin.tech,cryptodelta.net,mccrypto.xyz,yellowfaucet.ovh,shoppingpals.xyz,toptap.website,fastfaucet.xyz,topfaucet.tk,expresslevelup.xyz,cryptoshi.club,proinfinity.fun,clickscoin.com,cryptolovers.online,fastcrypto.ga,nzfun.tk,expressfaucet.com,cryptoclaim.space,manicoins.com,lemeclaim.website,ecauto.dailyfaucets.com,auto-crypto.ml###random_728_top
+100count.net##center > font > p
+windows10gadgets.pro###footerads
+freebitco.in##.daily_jackpot_main_container_div
+freebitco.in###bottom_user_ads_container
+freebitco.in###deposit_promo_message_regular
+clickscoin.com##[href="https://earnhub.net/"]
+cryptolovers.online##[href="https://cryptolovers.online/doge"]
+
+bestfaucet.com.pl##.\36 02156ad0d27012680b650b2
+bestfaucet.com.pl###service > center
+bestfaucet.com.pl##.row > center > ._fa7cdd4c68507744
+bestfaucet.com.pl##div#random_728_bottom ._fa7cdd4c68507744
+autofaucet.xyz##div.col-sm-2 > center
+nzfun.tk##[href^="https://expresscrypto.io/signup"]
+illink.net##center
+fastfaucet.xyz###\39 al7qVx
+fastfaucet.xyz##coingecko-coin-price-marquee-widget
+www.jaysndees.com###rnd_mob_top
+www.jaysndees.com###rnd_mob_btm
+www.jaysndees.com##[href^="//www.bitcoadz.io/"]
+downphanmem.com,expertvn.com##.text-content
+downphanmem.com,expertvn.com##.clearfix.entry-content
+downphanmem.com##.post-content
+downphanmem.com##.single_post
+yourtechnology.online##div:nth-of-type(6)
+expertvn.com##.entry-content
+exey.io###div-gpt-ad-1619446006501-0
+exey.io###div-gpt-ad-1619445962064-0
+exey.io###div-gpt-ad-1619446006501-1
+exey.io##p
+urlfiles.com###M712676ScriptRootC1136046
+ezbit.co.in###getcoinsitesticky
+proinfinity.fun##center > center > center
+clickscoin.com##center > center > .xc449bad4854773ff
+clickscoin.com##._fa7cdd4c68507744
+topfaucet.tk##.row > center > div > ._fa7cdd4c68507744
+topfaucet.tk##center > center > center > div
+kiemlua.com##p:nth-of-type(1)
+faucetworld.in##.shadow.margin-1.dim-300x250.bottom-left.medium.slide
+faucetworld.in##.shadow.margin-1.dim-300x250.bottom-right.medium.slide
+starfaucet.net##p:nth-of-type(2)
+starfaucet.net##div.col-sm-12.col-12:nth-of-type(3)
+starfaucet.net##.d-xl-block.d-none.m-1
+starfaucet.net##div.col-sm-12.col-12:nth-of-type(1)
+shoppingpals.xyz##.col-sm-6 > [href^="https://www.ecmining.club"]
+shoppingpals.xyz##a[href^="http://manicoins.com"]:nth-of-type(3)
+shoppingpals.xyz##a[href^="https://www.ecmining.club"]:nth-of-type(1)
+shoppingpals.xyz##a[href^="http://www.expressfaucet.com"]:nth-of-type(5)
+shoppingpals.xyz##a[href^="https://www.ecmining.club"]:nth-of-type(7)
+shoppingpals.xyz##a[href="https://toplevelfaucet.website/r/1012"]:nth-of-type(9)
+shoppingpals.xyz##a[href="https://toplevelfaucet.website/auto/r/58"]:nth-of-type(11)
+shoppingpals.xyz##a[href^="https://www.ecmining.club"]:nth-of-type(3)
+shoppingpals.xyz##a[href^="https://www.ecmining.club"]:nth-of-type(2)
+shoppingpals.xyz##.col-sm-6 > center > div._fa7cdd4c68507744
+shoppingpals.xyz##div.xc449bad4854773ff:nth-of-type(2)
+shoppingpals.xyz##.row > center > .xc449bad4854773ff
+shoppingpals.xyz##.row > center > ._fa7cdd4c68507744
+shoppingpals.xyz##.col-sm-6 > center > div.xc449bad4854773ff
+shoppingpals.xyz##.row > center
+shoppingpals.xyz##center:nth-of-type(6)
+ezefidelity.com###alertBox
+mcrypto.club##div.bestwp-outer-wrapper:nth-of-type(6)
+toptap.website##[src="https://toptap.website/express-auto/contest"]
+downphanmem.com##.uk-clearfix.entry-content
+newsonthegotoday.com##[src="https://exru.website/fown.jpg"]
+
+randomsatoshi.win##.z-depth-3.RS-second-layer.l8.m12.s12.col > div.s12.col > div.center-align.s12.col
+randomsatoshi.win##.z-depth-3.RS-second-layer.l8.m12.s12.col > div.center-align.s12.col
+randomsatoshi.win##.center-align.l2.m12.s12.col
+randomsatoshi.win##div.l2.m12.s12.col:nth-of-type(1)
+randomsatoshi.win##.s12.col.RS-Pad-no.card-panel.RS-second-layer > .center-align.row > div.s12.col
+autofaucet1s.ga##[href="https://cooltext.com"]
+auto-crypto.ml##pre:nth-of-type(2) > [href^="https://money-lover.ml/"]
+expertvn.com##.post-content
+autofaucet.dutchycorp.space##center > .hide-on-med-and-down > div
+autofaucet.dutchycorp.space##.xs12.s12.m6.l6.col > div.hide-on-small-only > div
+uptocoin.tk##.d-xl-block.d-none.m-1
+uptocoin.tk##[href^="https://expresscrypto.io/signup"]
+autofaucet1s.ga##[src="https://images.cooltext.com/5521161.png"]
+cslink.in##[href^="https://mavq.net/d4a04dffe8/fbd01daa75/"]
+autofaucet.dutchycorp.space##.s12.col.hide-on-small-only > div
+cslink.in##[href^="https://sasujooceerg.com/"]
+100count.net###div-gpt-ad-100countnet300x250_1
+thora.world##.what
+www.apkonline.net##.open.ng-scope.menu
+www.apkonline.net###parenthomexx
+cryptolovers.online##.referral
+cryptolovers.online##.justify-content-center.h-100.card
+lemeclaim.xyz##header
+rodjulian.com##p:nth-of-type(1)
+www.nousdecor.com##center:nth-of-type(2)
+www.nousdecor.com##center:nth-of-type(4)
+www.nousdecor.com##p:nth-of-type(1)
+urlfiles.com##[src="/submit.html"]
+paid4.link##.banner-captcha.banner
+185.231.223.131##[href="https://luxury138.link/bioskopkerenheaderluxury111"]
+185.231.223.131##[href="https://luxury138.link/bioskopkerensidebarmild88"]
+158.69.0.201##div.content.row > .custom-html-widget.textwidget
+149.56.24.226###top-b
+149.56.24.226###bplayer-single
+149.56.24.226###mid-b
+149.56.24.226###bsquare
+149.56.24.226###player-below-b
+allcoins.pw###chat > .w3-center
+faucetpay.io##[href="https://faucetpay.io/page/view-banner-ad/MmRVaDlIejk1Y0JLSWZYQ1liVFRZUmI0bEZESURuR2kwOHdXY0VZLzBqOD0="]
+freecoinz.xyz###\31 ao7hzt
+faucetcoins.org,freecoinz.xyz##.float_ad
+faucetcoins.org,freecoinz.xyz###RightFloatAds
+faucetcoins.org,freecoinz.xyz###LeftFloatAds
+freecoinz.xyz##.text-center.mb-4.order-md-2.col-lg-6.col-md-8.col-12 > center
+gainprofit.xyz##.banner-336x280.banner
+autoclaim.site##div._fa7cdd4c68507744:nth-of-type(3)
+topfaucet.tk##body > [href="https://www.rotate4all.com/ptp/promote-208178"]
+topfaucet.tk##form > [href="https://www.rotate4all.com/ptp/promote-208178"]
+topfaucet.tk##.col-sm-6 > center > div > [href^="https://www.rotate4all.com/ptp/"]
+topfaucet.tk##[href="https://www.rotate4all.com/ptp/promote-208178"]
+toptechtalk.xyz##.chp_ads_blocker_detector-show.chp_ads_blocker_detector
+toptechtalk.xyz##.active.chp_ads_blocker-overlay
+staaker.com###div-gpt-ad-1623047787043-0
+staaker.com###div-gpt-ad-1623047799810-0
+staaker.com###div-gpt-ad-1623047810399-0
+staaker.com##p:nth-of-type(1)
+rodjulian.com###div-gpt-ad-1601094253692-0
+rodjulian.com###div-gpt-ad-1610247350895-0
+rodjulian.com###div-gpt-ad-1601094239951-0
+www.nousdecor.com###div-gpt-ad-1619161390209-0
+www.nousdecor.com###div-desktop
+uebnews.online##p:nth-of-type(1)
+arwy8877.com##div[class^="advert"]
+arwy8877.com##div[id^="lowshow"]
+fastfaucet.xyz##[href^="https://earnsato.com/"]
+thora.world##.footer
+coinsparty.mcrypto.club##.banner-inner
+starfaucet.net##.col-mid-12
+paid4.link##.blog-content
+asia-mag.com##[href="//xxxrevpushclcdu.com/help.vpf"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/manage.webp"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/item.webp"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/handle.page"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/load.xml"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/handle.xml"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/item.html"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/item.xml"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/blog.webp"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/blog.xml"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/handle.vpf"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/blog.vpf"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/help.page"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/blog.html"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/handle.html"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/app.vpf"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/help.webp"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/help.xml"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/help.html"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/handle.webp"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/go.page"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/load.vpf"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/go.xml"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/item.vpf"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/manage.html"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/app.xml"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/item.page"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/go.vpf"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/blog.page"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/app.page"]
+asia-mag.com##[href="//xxxrevpushclcdu.com/load.webp"]
+lemeclaim.xyz##.row > center
+mcmfaucets.xyz#@#+js(abort-on-property-write, _pop)
+
+mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz##div[class^="BannerContainer"]
+mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz##div[class^="Leaderboard_top"]
+mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz##div[class^="Leaderboard_bottom"]
+shoppingpals.xyz##.form-group > [href^="https://blockhash.space/dash/"]
+shoppingpals.xyz##div.col-sm-3:nth-of-type(3)
+shoppingpals.xyz##.col-sm-6 > center > [href^="https://blockhash.space/dash/"]
+shoppingpals.xyz##[href^="https://blockhash.space/etc/"]
+shoppingpals.xyz##a[href^="https://blockhash.space/"]:nth-of-type(2)
+shoppingpals.xyz##a[href^="https://blockhash.space/"]:nth-of-type(3)
+starfaucet.net##.col-md-pull-6.col-md-3.col-xs-6
+starfaucet.net##.coinmarketcap-currency-widget
+starfaucet.net###top-ads
+faucet.ibnu1337.xyz##div.my-4.row:nth-of-type(3)
+starfaucet.net##div.col-md-3.col-xs-6:nth-of-type(3)
+gainbtc.click##div.row.form-group:nth-of-type(2)
+autofaucet.dutchycorp.space##.sticky-ad-728x90.hide-on-med-and-down
+autofaucet1s.ga##[href="https://fr.cooltext.com"]
