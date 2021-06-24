@@ -103,6 +103,7 @@ bigbtc.win#@#center
 ||devozuyu.xyz^
 ||tefumiji.xyz^
 ||jyotfrrvn.com^
+||tuwuzaci.xyz^$important
 ||p.drawx.xyz^$important
 ||popcashjs.b-cdn.net^$important
 ||bestfaucet.com.pl/BestFaucet.gif$image,1p,important
@@ -425,3 +426,9 @@ autofaucet.dutchycorp.space##.sticky-ad-728x90.hide-on-med-and-down
 autofaucet1s.ga##[href="https://fr.cooltext.com"]
 starfaucet.net###particles-js
 claimdoge.club##center > div > center
+dogeearn.com##div.bestwp-outer-wrapper:nth-of-type(7)
+bitcoinmaniagame.com##.homepage__start
+bitcoinmaniagame.com##.homepage__top
+bitcoinmaniagame.com##.homepage__more-items
+bitcoinmaniagame.com##.homepage__more
+bitcoinmaniagame.com##.homepage__stat-desc
