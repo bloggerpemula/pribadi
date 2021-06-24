@@ -1,11 +1,11 @@
 ! Title: My UBO Filters
 ! Description: This is my own Filters
 
-@@*$generichide,domain=coinpayz.xyz|coinpayz.link|cryptomoneyco.in|exey.io|bevru.club|topfaucet.tk|expresscrypto.io|proinfinity.fun|faucet.livegamers4fun.com|short.clickscoin.com|lemeclaim.website|cryptoclaim.space|cryptoshi.club|topfaucet.tk|cryptolovers.online|manicoins.com|freebitz.xyz|dovefaucet.xyz|bestfaucet.com.pl|auto-crypto.ml|expressfaucet.com|autofaucet.xyz|hogdice.com|ecauto.dailyfaucets.com|toptap.website|softairbay.com|bitclicks.org|racevpn.com|contassh.com|satoshihero.com|satoshimonster.com|caranecom.blogspot.com|mycut.my.id|fastoshi.site|faucetworld.in|coinwetalk.com|cryptodelta.net|forumcoin.win|theicongenerator.com|fastcrypto.ga|cryptoonite.com|hack-sat.com|www.arwy8877.com|ezbit.co.in|coinwetalk.com|ez4short.com|diogoplaytech.top|cripto.co.in|mof.pw|freecrypto.cyou|linnkin.com|crazyblog.in|fastfaucet.xyz|abokitech.net|bitria.net|gripo.website|expresslevelup.xyz|coinbaze.in|earnads.top|urlfiles.com|forex-trnd.com|kiemlua.com|starfaucet.net|shoppingpals.xyz|blockhash.space|cryptobarathrum.ovh|rivayz.net|dogefaucetz.xyz|yellowfaucet.ovh|mccrypto.xyz|autofaucet.dutchycorp.space|nousdecor.com|gifans.com|arbweb.info|cryptobob.online|kiralikarazi.com|lemeclaim.xyz|claimdoge.club|autoclaim.site|staaker.com|claimfreecoins.io|bigbtc.win|rodjulian.com|gainprofit.xyz|thegoneapp.com|wplink.online|fire-link.net|cryptobunker.xyz|harlequin.tech|faucet-island.xyz|th3dz.com|vikingsfaucet.xyz|fidlarmusic.com|ksfaucet.net|fowcy.club|urlty.com|gwaher.com|azuzt.tk|nicecoins.pw|faucets-picker.com|dogeearn.com|digirefera.top|txyz.tk|claimdoge.club|cryptofans.club|dogeclick.net|flyurl.info
-gwaher.com,fidlarmusic.com,wplink.online,thegoneapp.com,bigbtc.win,staaker.com,clickscoin.com,nousdecor.com,forex-trnd.com,earnads.top,coinbaze.in,expressfaucet.com,crazyblog.in,mediacpm.pl,cripto.co.in,www.arwy8877.com,cryptoonite.com,proinfinity.fun,mycut.my.id##+js(bab-defuser.js)
+@@*$generichide,domain=coinpayz.xyz|coinpayz.link|cryptomoneyco.in|exey.io|bevru.club|topfaucet.tk|expresscrypto.io|proinfinity.fun|faucet.livegamers4fun.com|short.clickscoin.com|lemeclaim.website|cryptoclaim.space|cryptoshi.club|topfaucet.tk|cryptolovers.online|manicoins.com|freebitz.xyz|dovefaucet.xyz|bestfaucet.com.pl|auto-crypto.ml|expressfaucet.com|autofaucet.xyz|hogdice.com|ecauto.dailyfaucets.com|toptap.website|softairbay.com|bitclicks.org|racevpn.com|contassh.com|satoshihero.com|satoshimonster.com|caranecom.blogspot.com|mycut.my.id|fastoshi.site|faucetworld.in|coinwetalk.com|cryptodelta.net|forumcoin.win|theicongenerator.com|fastcrypto.ga|cryptoonite.com|hack-sat.com|www.arwy8877.com|ezbit.co.in|coinwetalk.com|ez4short.com|diogoplaytech.top|cripto.co.in|mof.pw|freecrypto.cyou|linnkin.com|crazyblog.in|fastfaucet.xyz|abokitech.net|bitria.net|gripo.website|expresslevelup.xyz|coinbaze.in|earnads.top|urlfiles.com|forex-trnd.com|kiemlua.com|starfaucet.net|shoppingpals.xyz|blockhash.space|cryptobarathrum.ovh|rivayz.net|dogefaucetz.xyz|yellowfaucet.ovh|mccrypto.xyz|autofaucet.dutchycorp.space|nousdecor.com|gifans.com|arbweb.info|cryptobob.online|kiralikarazi.com|lemeclaim.xyz|claimdoge.club|autoclaim.site|staaker.com|claimfreecoins.io|bigbtc.win|rodjulian.com|gainprofit.xyz|thegoneapp.com|wplink.online|fire-link.net|cryptobunker.xyz|harlequin.tech|faucet-island.xyz|th3dz.com|vikingsfaucet.xyz|fidlarmusic.com|ksfaucet.net|fowcy.club|urlty.com|gwaher.com|azuzt.tk|nicecoins.pw|faucets-picker.com|dogeearn.com|digirefera.top|txyz.tk|claimdoge.club|cryptofans.club|dogeclick.net|flyurl.info|kingsleynyc.com|insuranceblog.xyz
+kingsleynyc.com,dogeclick.net,gwaher.com,fidlarmusic.com,wplink.online,thegoneapp.com,bigbtc.win,staaker.com,clickscoin.com,nousdecor.com,forex-trnd.com,earnads.top,coinbaze.in,expressfaucet.com,crazyblog.in,mediacpm.pl,cripto.co.in,www.arwy8877.com,cryptoonite.com,proinfinity.fun,mycut.my.id##+js(bab-defuser.js)
 faucet.ibnu1337.xyz,earncoin.site,yousm.link,bitclaim.click,noweconomy.live,mof.pw,topcryptoz.net,paid4.link,allcryptoz.net,cashearn.cc,asia-mag.com,express-cut.ovh##+js(window.open-defuser)
 desiflix.club##+js(abort-on-property-write.js, _pop)
-@@/prebid-ads.js$script,domain=lootlinks.xyz
+@@/prebid-ads.js$script,domain=lootlinks.xyz|cryptofun.space|shrink.icu
 @@/adsbygoogle.js|$script,domain=fastssh.com|woiden.com|ethereumfaucet.info|faucetdump.com|filecr.com|mycut.my.id
 @@/viewad.js$script,domain=shortique.com
 @@||www.google.com/adsense/*$domain=randomssh.com|sshstunnel.com|lionssh.com|proinfinity.fun
@@ -41,7 +41,6 @@ desiflix.club##+js(abort-on-property-write.js, _pop)
 @@||autofaucet.dutchycorp.space/adblock.php$xhr,domain=autofaucet.dutchycorp.space
 @@||i.imgur.com/H0LMgQx.png$image,domain=fcc.lc
 @@||g.adspeed.net/ad.php?do=detectadblocker$script,domain=kiralikarazi.com
-@@||shrink.icu/js/prebid-ads.js$script,1p
 cryptobunker.xyz#@#+js(nobab)
 @@||forumcoin.win/global/ads/jquery.js$script,1p
 shortique.com#@#[id*="ScriptRoot"]
@@ -160,7 +159,72 @@ bigbtc.win#@#center
 ||uhqpnhorurueku.com^$important
 ||mansavou.net^$important
 ||ridsaich.com^$important
-
+||farazrabbani.xyz/img.jpg$image
+||texiluwa.xyz^$important
+||www.colorfulads.com^$subdocument,domain=freebitz.xyz|phoenixfaucets.xyz|mcmfaucets.xyz|proinfinity.fun,important
+||ad.a-ads.com^$subdocument,domain=freebitz.xyz|phoenixfaucets.xyz|mcmfaucets.xyz|proinfinity.fun,important
+||cryptocoinsad.com^$subdocument,domain=freebitz.xyz|phoenixfaucets.xyz|mcmfaucets.xyz|proinfinity.fun,important
+||ayelads.xyz^$subdocument,domain=freebitz.xyz|phoenixfaucets.xyz|mcmfaucets.xyz|proinfinity.fun,important
+||mfk-cpm.com^$subdocument,domain=freebitz.xyz|phoenixfaucets.xyz|mcmfaucets.xyz|proinfinity.fun,important
+||proinfinity.fun/bitcoadz468.html$subdocument,1p,important
+||proinfinity.fun/adaround300.html$subdocument,1p,important
+||proinfinity.fun/adaround160.html$subdocument,1p,important
+||proinfinity.fun/adbit300.html$subdocument,1p,important
+||proinfinity.fun/adcrypto160.html$subdocument,1p,important
+||proinfinity.fun/bmf728.html$subdocument,1p,important
+||mcmfaucets.xyz/300x250_bitmedia.html$subdocument,1p,important
+||mcmfaucets.xyz/160x600_adaround.html$subdocument,1p,important
+||mcmfaucets.xyz/300x250_cointraffic.html$subdocument,1p,important
+||mcmfaucets.xyz/300x250_adaround.html$subdocument,1p,important
+||mcmfaucets.xyz/160x600_bitmedia.html$subdocument,1p,important
+||mcmfaucets.xyz/728x90_adaround.html$subdocument,1p,important
+||mcmfaucets.xyz/728x90_bitmedia.html$subdocument,1p,important
+||mcmfaucets.xyz/468x60_adaround.html$subdocument,1p,important
+||mcmfaucets.xyz/160x600_a-ads.html$subdocument,1p,important
+||phoenixfaucets.xyz/300x250_adcalm.html$subdocument,1p,important
+||phoenixfaucets.xyz/300x250_adaround.html$subdocument,1p,important
+||phoenixfaucets.xyz/728x90_valueimpression.html$subdocument,1p,important
+||phoenixfaucets.xyz/160x600_adaround.html$subdocument,1p,important
+||phoenixfaucets.xyz/468x60_cashads.html$subdocument,1p,important
+||phoenixfaucets.xyz/300x250_bitad.html$subdocument,1p,important
+||phoenixfaucets.xyz/320x50_valueimpression.html$subdocument,1p,important
+||phoenixfaucets.xyz/160x600_valueimpression.html$subdocument,1p,important
+||phoenixfaucets.xyz/160x600_bmfads.html$subdocument,1p,important
+||phoenixfaucets.xyz/160x600_adoto.html$subdocument,1p,important
+||phoenixfaucets.xyz/728x90_bittraffic.html$subdocument,1p,important
+||phoenixfaucets.xyz/728x90_coinadmedia.html$subdocument,1p,important
+||freebitz.xyz/728x90_adsyou.html$subdocument,1p,important
+||freebitz.xyz/728x90_adaround.html$subdocument,1p,important
+||freebitz.xyz/468x60_adaround.html$subdocument,1p,important
+||freebitz.xyz/160x600_adaround.html$subdocument,1p,important
+||freebitz.xyz/300x250_adaround.html$subdocument,1p,important
+||freebitz.xyz/468x60_bmfads.html$subdocument,1p,important
+||proinfinity.fun/adcrypto728.html$subdocument,1p,important
+||proinfinity.fun/adcrypto468.html$subdocument,1p,important
+||proinfinity.fun/coinverti468.html$subdocument,1p,important
+||proinfinity.fun/bitcoadz160.html$subdocument,1p,important
+||proinfinity.fun/coinverti300.html$subdocument,1p,important
+||proinfinity.fun/bitcoadz300.html$subdocument,1p,important
+||proinfinity.fun/bmf160.html$subdocument,1p,important
+||phoenixfaucets.xyz/160x600_aads.html$subdocument,1p,important
+||phoenixfaucets.xyz/728x90_adcalm.html$subdocument,1p,important
+||phoenixfaucets.xyz/160x600_cashads.html$subdocument,1p,important
+||phoenixfaucets.xyz/300x250_cashads.html$subdocument,1p,important
+||phoenixfaucets.xyz/728x90_cashads.html$subdocument,1p,important
+||phoenixfaucets.xyz/300x250_valueimpression.html$subdocument,1p,important
+||proinfinity.fun/adbit728.html$subdocument,1p,important
+||proinfinity.fun/bmf468.html$subdocument,1p,important
+||proinfinity.fun/coinverti160.html$subdocument,1p,important
+||proinfinity.fun/coinverti728.html$subdocument,1p,important
+||proinfinity.fun/adsyou728.html$subdocument,1p,important
+||phoenixfaucets.xyz/728x90_adoto.html$subdocument,1p,important
+||phoenixfaucets.xyz/160x600_adcalm.html$subdocument,1p,important
+||phoenixfaucets.xyz/300x250_adoto.html$subdocument,1p,important
+||proinfinity.fun/bitcoadz728.html$subdocument,1p,important
+||proinfinity.fun/adaround468.html$subdocument,1p,important
+||proinfinity.fun/adcrypto300.html$subdocument,1p,important
+||proinfinity.fun/bmf300.html$subdocument,1p,important
+||proinfinity.fun/adbit468.html$subdocument,1p,important
 trongo.pro###agressive-ads
 www.softairbay.com###link-view > .banner-captcha.banner
 www.softairbay.com##.banner-728x90.banner
@@ -240,7 +304,6 @@ mcrypto.club##div.bestwp-outer-wrapper:nth-of-type(6)
 toptap.website##[src="https://toptap.website/express-auto/contest"]
 downphanmem.com##.uk-clearfix.entry-content
 newsonthegotoday.com##[src="https://exru.website/fown.jpg"]
-
 randomsatoshi.win##.z-depth-3.RS-second-layer.l8.m12.s12.col > div.s12.col > div.center-align.s12.col
 randomsatoshi.win##.z-depth-3.RS-second-layer.l8.m12.s12.col > div.center-align.s12.col
 randomsatoshi.win##.center-align.l2.m12.s12.col
@@ -343,7 +406,6 @@ asia-mag.com##[href="//xxxrevpushclcdu.com/app.page"]
 asia-mag.com##[href="//xxxrevpushclcdu.com/load.webp"]
 lemeclaim.xyz##.row > center
 mcmfaucets.xyz#@#+js(abort-on-property-write, _pop)
-
 mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz##div[class^="BannerContainer"]
 mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz##div[class^="Leaderboard_top"]
 mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz##div[class^="Leaderboard_bottom"]
@@ -361,3 +423,5 @@ starfaucet.net##div.col-md-3.col-xs-6:nth-of-type(3)
 gainbtc.click##div.row.form-group:nth-of-type(2)
 autofaucet.dutchycorp.space##.sticky-ad-728x90.hide-on-med-and-down
 autofaucet1s.ga##[href="https://fr.cooltext.com"]
+starfaucet.net###particles-js
+claimdoge.club##center > div > center
