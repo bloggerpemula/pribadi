@@ -30,7 +30,7 @@ desiflix.club##+js(abort-on-property-write.js, _pop)
 @@||freehostedscripts.net^$domain=bismillahslamet.blogspot.com
 @@||shopeemobile.com^$domain=shopee.co.id
 @@||firebaselogging-pa.googleapis.com^$domain=shopee.co.id
-@@||browser.sentry-cdn.com^$script,domain=freebitz.xyz|phoenixfaucets.xyz|mcmfaucets.xyz|proinfinity.fun|topfaucet.tk|hack-sat.com
+@@||browser.sentry-cdn.com^$script,domain=freebitz.xyz|phoenixfaucets.xyz|mcmfaucets.xyz|proinfinity.fun|topfaucet.tk|hack-sat.com|arbweb.info
 @@||www.easyhits4u.com^
 @@||static.easyhits4u.com^
 @@||device.maxmind.com^$domain=www.easyhits4u.com
@@ -405,9 +405,9 @@ asia-mag.com##[href="//xxxrevpushclcdu.com/load.webp"]
 lemeclaim.xyz##.row > center
 mcmfaucets.xyz#@#+js(abort-on-property-write, _pop)
 dogeearn.com##div.bestwp-outer-wrapper:nth-of-type(7)
-hack-sat.com,topfaucet.tk,proinfinity.fun,mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz##div[class^="BannerContainer"]
-hack-sat.com,topfaucet.tk,proinfinity.fun,mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz##div[class^="Leaderboard_top"]
-hack-sat.com,topfaucet.tk,proinfinity.fun,mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz##div[class^="Leaderboard_bottom"]
+arbweb.info,hack-sat.com,topfaucet.tk,proinfinity.fun,mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz##div[class^="BannerContainer"]
+arbweb.info,hack-sat.com,topfaucet.tk,proinfinity.fun,mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz##div[class^="Leaderboard_top"]
+arbweb.info,hack-sat.com,topfaucet.tk,proinfinity.fun,mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz##div[class^="Leaderboard_bottom"]
 shoppingpals.xyz##.form-group > [href^="https://blockhash.space/dash/"]
 shoppingpals.xyz##div.col-sm-3:nth-of-type(3)
 shoppingpals.xyz##.col-sm-6 > center > [href^="https://blockhash.space/dash/"]
