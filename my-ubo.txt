@@ -1,9 +1,9 @@
 ! Title: My UBO Filters
-! Description: This is my own Filters
+! Description: This is my own Filters to blocks Ads
 
-@@*$generichide,domain=coinpayz.xyz|coinpayz.link|cryptomoneyco.in|exey.io|bevru.club|expresscrypto.io|faucet.livegamers4fun.com|short.clickscoin.com|lemeclaim.website|cryptoclaim.space|cryptoshi.club|cryptolovers.online|manicoins.com|dovefaucet.xyz|bestfaucet.com.pl|auto-crypto.ml|expressfaucet.com|autofaucet.xyz|hogdice.com|ecauto.dailyfaucets.com|toptap.website|softairbay.com|bitclicks.org|racevpn.com|contassh.com|satoshihero.com|satoshimonster.com|caranecom.blogspot.com|mycut.my.id|fastoshi.site|faucetworld.in|coinwetalk.com|cryptodelta.net|forumcoin.win|theicongenerator.com|fastcrypto.ga|cryptoonite.com|hack-sat.com|www.arwy8877.com|ezbit.co.in|coinwetalk.com|ez4short.com|diogoplaytech.top|cripto.co.in|mof.pw|freecrypto.cyou|linnkin.com|crazyblog.in|fastfaucet.xyz|abokitech.net|bitria.net|gripo.website|expresslevelup.xyz|coinbaze.in|earnads.top|urlfiles.com|forex-trnd.com|kiemlua.com|starfaucet.net|shoppingpals.xyz|blockhash.space|cryptobarathrum.ovh|rivayz.net|dogefaucetz.xyz|yellowfaucet.ovh|mccrypto.xyz|autofaucet.dutchycorp.space|nousdecor.com|gifans.com|arbweb.info|cryptobob.online|kiralikarazi.com|lemeclaim.xyz|claimdoge.club|autoclaim.site|staaker.com|claimfreecoins.io|bigbtc.win|rodjulian.com|gainprofit.xyz|thegoneapp.com|wplink.online|fire-link.net|cryptobunker.xyz|harlequin.tech|faucet-island.xyz|th3dz.com|vikingsfaucet.xyz|fidlarmusic.com|ksfaucet.net|fowcy.club|urlty.com|gwaher.com|azuzt.tk|nicecoins.pw|faucets-picker.com|dogeearn.com|digirefera.top|txyz.tk|claimdoge.club|cryptofans.club|dogeclick.net|flyurl.info|kingsleynyc.com|insuranceblog.xyz|jncojeans.com
+@@*$generichide,domain=coinpayz.xyz|coinpayz.link|cryptomoneyco.in|exey.io|bevru.club|expresscrypto.io|faucet.livegamers4fun.com|short.clickscoin.com|lemeclaim.website|cryptoclaim.space|cryptoshi.club|cryptolovers.online|manicoins.com|dovefaucet.xyz|bestfaucet.com.pl|auto-crypto.ml|expressfaucet.com|autofaucet.xyz|hogdice.com|ecauto.dailyfaucets.com|toptap.website|softairbay.com|bitclicks.org|racevpn.com|contassh.com|satoshihero.com|satoshimonster.com|caranecom.blogspot.com|mycut.my.id|fastoshi.site|faucetworld.in|coinwetalk.com|cryptodelta.net|forumcoin.win|theicongenerator.com|fastcrypto.ga|cryptoonite.com|hack-sat.com|www.arwy8877.com|ezbit.co.in|coinwetalk.com|ez4short.com|diogoplaytech.top|cripto.co.in|mof.pw|freecrypto.cyou|linnkin.com|crazyblog.in|fastfaucet.xyz|abokitech.net|bitria.net|gripo.website|expresslevelup.xyz|coinbaze.in|earnads.top|urlfiles.com|forex-trnd.com|kiemlua.com|starfaucet.net|shoppingpals.xyz|blockhash.space|cryptobarathrum.ovh|rivayz.net|dogefaucetz.xyz|yellowfaucet.ovh|mccrypto.xyz|autofaucet.dutchycorp.space|nousdecor.com|gifans.com|arbweb.info|cryptobob.online|kiralikarazi.com|lemeclaim.xyz|claimdoge.club|autoclaim.site|staaker.com|claimfreecoins.io|bigbtc.win|rodjulian.com|gainprofit.xyz|thegoneapp.com|wplink.online|fire-link.net|cryptobunker.xyz|harlequin.tech|faucet-island.xyz|th3dz.com|vikingsfaucet.xyz|fidlarmusic.com|ksfaucet.net|fowcy.club|urlty.com|gwaher.com|azuzt.tk|nicecoins.pw|faucets-picker.com|dogeearn.com|digirefera.top|txyz.tk|claimdoge.club|cryptofans.club|dogeclick.net|flyurl.info|kingsleynyc.com|insuranceblog.xyz|jncojeans.com|cryptofuns.ru
 jncojeans.com,kingsleynyc.com,dogeclick.net,gwaher.com,fidlarmusic.com,wplink.online,thegoneapp.com,bigbtc.win,staaker.com,clickscoin.com,nousdecor.com,forex-trnd.com,earnads.top,coinbaze.in,expressfaucet.com,crazyblog.in,mediacpm.pl,cripto.co.in,www.arwy8877.com,cryptoonite.com,mycut.my.id##+js(bab-defuser.js)
-faucet.ibnu1337.xyz,earncoin.site,yousm.link,bitclaim.click,noweconomy.live,mof.pw,topcryptoz.net,paid4.link,allcryptoz.net,cashearn.cc,asia-mag.com,express-cut.ovh##+js(window.open-defuser)
+cryptofuns.ru,cryptonetos.ru,faucet.ibnu1337.xyz,earncoin.site,yousm.link,bitclaim.click,noweconomy.live,mof.pw,topcryptoz.net,paid4.link,allcryptoz.net,cashearn.cc,asia-mag.com,express-cut.ovh##+js(window.open-defuser)
 desiflix.club##+js(abort-on-property-write.js, _pop)
 @@/prebid-ads.js$script,domain=lootlinks.xyz|cryptofun.space|shrink.icu
 @@/adsbygoogle.js|$script,domain=fastssh.com|woiden.com|ethereumfaucet.info|faucetdump.com|filecr.com|mycut.my.id
@@ -50,10 +50,9 @@ crazyblog.in#@#+js(window.open-defuser)
 faucetcoins.org,freecoinz.xyz#@##captcha-adspace
 skybtc.com#@##google-ad
 bigbtc.win#@#center
-@@||newassets.hcaptcha.com^
-||hcaptcha.com^*/api.js$script
+@@||newassets.hcaptcha.com^$subdocument,domain=birdurls.com
 ||www.intellipopup.com^$important
-||bestfaucet.com.pl/BestFaucet.gif$image
+||bestfaucet.com.pl/BestFaucet.gif$image,1p,important
 ||st.chatango.com/h5/gz/r0527210747/id.html$subdocument
 ||www.arwy8877.com/images/bg00o.jpg$image,domain=www.arwy8877.com,important
 ||discord.com^$domain=www.arwy8877.com,important
@@ -124,7 +123,7 @@ bigbtc.win#@#center
 ||faucet-island.xyz/sunset/sblogo.png$image,1p,important
 |http*:*/arlinablock.js$script,3p,important
 ||tradingview.com^$domain=shoppingpals.xyz
-||cryptodelta.net/scb/bg.jpg$image
+||cryptodelta.net/scb/bg.jpg$image,1p,important
 ||cryptodelta.net/devil/blue2.jpg$image,1p,important
 ||cryptodelta.net/devil/helllogo.png$image,1p,important
 ||st.chatango.com/h5/gz/r0409211505/id.html$subdocument
@@ -155,7 +154,10 @@ bigbtc.win#@#center
 ||apps.elfsight.com^$important
 ||adshort.media^$important
 ||wnmalshuld.com^$important
-||harlequin.tech/mission-background.png$image
+||faucet-island.xyz/btc/bg.jpg$image,1p,important
+||risausso.com^$important
+||btc.inet-money.club/bg.jpg$image,1p,important
+||harlequin.tech/mission-background.png$image,1p,important
 ||egreephu.com^$important
 ||vubihasdtbadiq.com^$important
 ||www.vsvihsib.com^$important
@@ -163,7 +165,7 @@ bigbtc.win#@#center
 ||uhqpnhorurueku.com^$important
 ||mansavou.net^$important
 ||ridsaich.com^$important
-||farazrabbani.xyz/img.jpg$image
+||farazrabbani.xyz/img.jpg$image,1p,important
 ||texiluwa.xyz^$important
 ||www.colorfulads.com^$subdocument,domain=freebitz.xyz|phoenixfaucets.xyz|mcmfaucets.xyz|proinfinity.fun|topfaucet.tk,important
 ||ad.a-ads.com^$subdocument,domain=freebitz.xyz|phoenixfaucets.xyz|mcmfaucets.xyz|proinfinity.fun|topfaucet.tk,important
@@ -428,3 +430,14 @@ bitcoinmaniagame.com##.homepage__more-items
 bitcoinmaniagame.com##.homepage__more
 bitcoinmaniagame.com##.homepage__stat-desc
 cryptoads.dogeearn.com##.banner-inner
+btc.inet-money.club##.col-md-pull-6.col-md-3.col-xs-6
+mcrypto.club##div.bestwp-outer-wrapper:nth-of-type(7)
+cryptonetos.ru##.main-board > .main-board
+cryptonetos.ru##.animate__pulse.infinite.animate__infinite.animate__animated.justify-content-center.d-flex
+cryptonetos.ru###kasino
+btc.inet-money.club##.whatis.info.msg
+miningpower.pro###___gatsby
+expresscrypto.io##.particles-js-canvas-el
+cryptofuns.ru##[href^="https://www.cpmnetworkcontent.com/qk08y45yqu"]
+proinfinity.fun###banner2zx
+cryptonetos.ru##div.col-md-3 > div > ._fa7cdd4c68507744
