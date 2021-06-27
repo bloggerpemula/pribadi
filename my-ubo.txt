@@ -406,6 +406,8 @@ asia-mag.com##[href="//xxxrevpushclcdu.com/load.webp"]
 lemeclaim.xyz##.row > center
 mcmfaucets.xyz#@#+js(abort-on-property-write, _pop)
 dogeearn.com##div.bestwp-outer-wrapper:nth-of-type(7)
+arbweb.info,hack-sat.com,topfaucet.tk,proinfinity.fun,mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz###banner2zx
+arbweb.info,hack-sat.com,topfaucet.tk,proinfinity.fun,mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz##.banner1z
 arbweb.info,hack-sat.com,topfaucet.tk,proinfinity.fun,mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz##div[class^="BannerContainer"]
 arbweb.info,hack-sat.com,topfaucet.tk,proinfinity.fun,mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz##div[class^="Leaderboard_top"]
 arbweb.info,hack-sat.com,topfaucet.tk,proinfinity.fun,mcmfaucets.xyz,freebitz.xyz,phoenixfaucets.xyz##div[class^="Leaderboard_bottom"]
