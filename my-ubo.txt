@@ -51,7 +51,7 @@ crazyblog.in#@#+js(window.open-defuser)
 faucetcoins.org,freecoinz.xyz#@##captcha-adspace
 skybtc.com#@##google-ad
 bigbtc.win#@#center
-@@||newassets.hcaptcha.com^$subdocument,domain=birdurls.com
+@@||newassets.hcaptcha.com^$subdocument,domain=birdurls.com|owllink.net
 ||www.intellipopup.com^$important
 ||bestfaucet.com.pl/BestFaucet.gif$image,1p,important
 ||st.chatango.com/h5/gz/r0527210747/id.html$subdocument
@@ -468,3 +468,4 @@ cryptofans.club###link-view > div > center
 pdfaucet.com##span
 toptechtalk.xyz##p:nth-of-type(2)
 toptechtalk.xyz##p:nth-of-type(3)
+shoppingpals.xyz##.navbar-cell
