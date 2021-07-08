@@ -73,6 +73,11 @@ bigbtc.win#@#center
 ||oclgbmykr.com^$important
 ||znznrccyrcr.com^$important
 ||itrigra.ru^
+||rawirymi.xyz^$important
+||merexaga.xyz^$important
+||adcaixa.com^$important
+||dogeclick.net/short/check.js$script,1p,important
+||clickscoin.com/short/check.js$script,1p,important
 ||freebitcoin.vip/network/show_i.php$subdocument,important
 ||freebitcoin.vip/network/show.php$subdocument,1p,important
 ||momijoy.ru^
