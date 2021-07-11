@@ -66,6 +66,7 @@ bigbtc.win#@#center
 ||ayelads.com^$important
 ||coinlib.io^$domain=bestfaucet.com.pl
 ||best-ads.com.pl^
+||bitcoinad.io^$important
 ||ahmadve.ru^$important
 ||cryptotraffic.xyz^$important
 ||www.neterou.com^
